@@ -1,2 +1,2 @@
-# root
-A personal project to hone my front-end skills. This repository houses HTML and CSS3 code, with JavaScript on the horizon. Looking forward to expanding my knowledge and building more complex web applications.
+# main
+A personal project to hone my front-end skills. This repository houses HTML and CSS3 code, with JavaScript on the horizon. Looking forward to expanding my knowledge and building more complex visual designs. I am learning to format documents and style them because the word editors are much slower.. Then I will broaden the horizon and expand on more website designing. All help is appreciated :)
