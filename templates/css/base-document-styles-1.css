@@ -1,0 +1,33 @@
+/* Preset for Professional Documentation | Preferences 1 */
+
+* {
+  --bg-color: #ccc;
+  --txt-color: #222;
+  
+  --line-1: 1.15;
+  --line-2: 1.25;
+  --line-3: 1.5;
+  --line-4: 1.75;
+  --line-5: 2;
+  --line-6: 3.5;
+  --line-7: 5;
+
+  --txt-ltr: ltr;
+  --txt-rtl: rtl;
+  --txt-cen: center;
+}
+
+html {
+  margin: 0;
+  height: 0;
+  box-sizing: border-box;
+  line-height: var(--line-1);
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+body {
+  -font-size: 62.5%;
+  -background: var(--bg-color);
+  color: var(--txt-color);
+}
