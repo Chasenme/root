@@ -1,0 +1,76 @@
+:root 
+{
+
+/* 
+ Classic B&W Document
+*/
+    --bg-clr1: hsla(0, 0%, 100%, 1);
+    --txt-clr1: hsla(0, 0%, 0%, 1);
+ 
+ 
+/* 
+ Modern Gray & White
+*/ 
+    --bg-clr2:  hsla(0, 0%, 100%, 1);
+    --txt-clr2: hsla(0, 0%, 51%, 1);
+
+ 
+/* 
+Sharp Blue & White
+*/  
+    --bg-clr3: hsla(60, 0%, 97%, 1);
+    --txt-clr3: hsla(240, 100%, 25%, 1);
+ 
+
+/* 
+Intellected Purple & White
+*/  
+    --bg-clr3: hsla(0,
+0%, 100%, 1);
+    --txt-clr3: hsla(300,
+100%, 25%, 1);
+
+
+/* 
+
+*/  
+    --bg-clr4: hsla();
+    --txt-clr4: hsla();
+
+
+/* 
+
+*/  
+    --bg-clr5: hsla();
+    --txt-clr5: hsla();
+
+
+/* 
+
+*/  
+    --bg-clr5: hsla();
+    --txt-clr5: hsla();
+
+/* 
+Font-Family Selection 
+*/
+  --ff-1: 'Playfair Display';
+  --ff-2: 'Merriweather';
+  --ff-3: 'GloriaHallelujah';
+  --ff-4: 'Charm';
+  --ff-5: 'Montserrat';
+  --ff-6: 'IndieFlower';
+  --ff-7: 'Satisfy';
+  --ff-8: 'Poppins';
+  --ff-9: 'Raleway';
+  --ff-10: 'Roboto';
+  --ff-11: 'Oswald';
+
+}
+
+body
+{
+    font-size: 62.5%;
+    line-height: 1.5;
+
+}
