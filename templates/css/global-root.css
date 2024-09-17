@@ -54,17 +54,17 @@ Intellected Purple & White
 /* 
 Font-Family Selection 
 */
-  --ff-1: 'Playfair Display';
-  --ff-2: 'Merriweather';
-  --ff-3: 'GloriaHallelujah';
-  --ff-4: 'Charm';
-  --ff-5: 'Montserrat';
-  --ff-6: 'IndieFlower';
-  --ff-7: 'Satisfy';
-  --ff-8: 'Poppins';
-  --ff-9: 'Raleway';
-  --ff-10: 'Roboto';
-  --ff-11: 'Oswald';
+  --ff-1: 'font/PlayfairDisplay-Regular.ttf';
+  --ff-2: 'font/Merriweather-Regular.ttf';
+  --ff-3: 'font/GloriaHallelujah-Regular.ttf';
+  --ff-4: 'font/Charm-Regular.ttf';
+  --ff-5: 'font/Montserrat-Regular.ttf';
+  --ff-6: 'font/IndieFlower-Regular.ttf';
+  --ff-7: 'font/Satisfy-Regular.ttf';
+  --ff-8: 'font/Poppins-Regular.ttf';
+  --ff-9: 'font/Raleway-Regular.ttf';
+  --ff-10: 'font/Roboto-Regular.ttf';
+  --ff-11: 'font/Oswald-Regular.ttf';
 
 }
 
